@@ -20,11 +20,6 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
  
     <style>
-           @import "{{ site.theme }}";
-
-header {
-  display: none;
-}
         @import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
         /*Used*/
         @import url('https://fonts.googleapis.com/css2?family=Bigshot+One&display=swap');
