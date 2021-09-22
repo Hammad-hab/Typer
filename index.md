@@ -387,5 +387,5 @@
 
     </script>
 </body>
-<footer style="color:white;">Hosted By Github</footer>
+<footer style="font-color: white;">Hosted By Github</footer>
 </html>
